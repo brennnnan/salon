@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "andrich_minervaregular";
+    src: url("../Fonts/andrich_minerva_regular-webfont.woff2") format("woff2"),
+         url("../Fonts/andrich_minerva_regular-webfont.woff") format("woff"),
+		 url("../Fonts/Andrich_Minerva_Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+	unicode-range: U+30-39;
+}
+
+
+
+@font-face {
+    font-family: "adieulight";
+    src: url("../Fonts/adieu-light-webfont.woff2") format("woff2"),
+         url("../Fonts/adieu-light-webfont.woff") format("woff"),
+		 url("../Fonts/Adieu-Light.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "baskerville";
+    src: url("../Fonts/Baskerville-SemiBold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+	unicode-range: U+30-39;
+}
+
+
+
+@font-face {
+    font-family: "windsordotbold";
+    src: url("../Fonts/windsordot-bol-webfont.woff2") format("woff2"),
+         url("../Fonts/windsordot-bol-webfont.woff") format("woff"),
+		 url("../Fonts/WindsorDOT-Bol.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: "windsordotreg";
+    src: url("../Fonts/WindsorDOT-Reg.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "WindsorAntiqueBold";
+    src: url("../Fonts/WindsorDOT-AntiqueBold.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
